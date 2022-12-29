@@ -9,7 +9,7 @@ html {
   --j: -1;
   --r: 0px;
   height: 100%;
-  background: url(PROBAR.jpg)50%/cover rgb(236, 187, 103);
+  background: url(fondo\ de\ music.jpg)100%/cover rgba(32, 108, 196, 0.103);
   background-blend-mode: luminosity;
 }
 
