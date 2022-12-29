@@ -83,7 +83,7 @@ body {
   bottom: 0;
   width: 100vw;
   height: 50%;
-  background-color: #33476a;
+  background-color: #474a40;
   z-index: -1;
 }
 
@@ -139,7 +139,7 @@ body {
   top: 2.2vw;
   margin-left: -4px;
   margin-top: -6px;
-  color: #252120;
+  color: #14bd96;
   z-index: 103;
   display: flex;
   cursor: pointer;
@@ -156,7 +156,7 @@ body {
 .header .burger {
   width: 20px;
   height: 3px;
-  background-color: #252120;
+  background-color: #22af4f;
   position: relative;
 }
 .header .burger:before, .header .burger:after {
@@ -176,13 +176,13 @@ body {
 }
 .header .logo-text {
   font-size: 20px;
-  color: #252120;
+  color: #f41aaf;
 }
 
 .back_btn {
   cursor: pointer;
   position: relative;
-  color: rgba(37, 33, 32, 0.4);
+  color: rgba(20, 224, 17, 0.4);
   font-size: 18px;
   display: flex;
   align-items: center;
@@ -190,7 +190,7 @@ body {
   opacity: 0;
 }
 .back_btn .circle {
-  background-color: rgba(37, 33, 32, 0.3);
+  background-color: rgba(114, 227, 33, 0.3);
   width: 24px;
   height: 24px;
   border-radius: 50%;
@@ -209,7 +209,7 @@ body {
   display: none;
 }
 .nav ul {
-  color: #444444;
+  color: #0f97db;
 }
 .nav ul.nav_main {
   margin-top: 20vh;
@@ -235,7 +235,7 @@ body {
   position: absolute;
   width: 4vw;
   height: 2px;
-  background-color: #444444;
+  background-color: #72a310;
   left: -12vw;
   top: 50%;
   transition: 0.4s;
@@ -244,7 +244,7 @@ body {
 .nav_divider {
   width: 3vw;
   height: 1px;
-  background-color: rgba(37, 33, 32, 0.12);
+  background-color: rgba(22, 193, 173, 0.12);
   margin: 4vh 6vw;
 }
 
@@ -264,7 +264,7 @@ body {
 }
 
 .track_info_wrapper {
-  border-right: 1px solid rgba(24, 38, 69, 0.11);
+  border-right: 1px solid rgba(149, 184, 24, 0.11);
   margin-right: 23px;
   padding-right: 30px;
 }
