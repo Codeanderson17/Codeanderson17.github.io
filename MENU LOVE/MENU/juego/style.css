@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-size: cover;
+    background-image: url("tumblr_oahumbuBNi1tkiuw4o2_1280.jpg");
+
+  }
+  
+  h1 {
+    font-size: 5em;
+    margin-bottom: 0.10em;
+    color: azure;
+  }
+  
+  p {
+    margin-top: 3;
+    color: aliceblue;
+    font-size: 1.5em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  }
+  
+  input[type="number"] {
+    width: 4em;
+    font-size: 1.5em;
+    margin-right: 0.5em;
+    color: rgb(11, 11, 11);
+
+  }
+  
+  button {
+    font-size: 1.5em;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 0.5em 1em;
+    border-radius: 0.25em;
+    cursor: pointer;
+  }
+  
+  button:disabled {
+    background-color: #ccc;
+    cursor: default;
+  }
+  
