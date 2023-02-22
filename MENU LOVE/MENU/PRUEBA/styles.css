@@ -1,0 +1,69 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-size: cover;
+    background-image: url("tumblr_oahumbuBNi1tkiuw4o2_1280.jpg");
+    max-width: 600px;
+		margin: 0 auto;
+		padding: 20px;
+		box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+		border-radius: 5px;
+		text-align: center;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(239, 216, 216, 0.3);
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 5em;
+    margin-bottom: 0.10em;
+    color: azure;  }
+    p {
+      margin-top: 3;
+      color: aliceblue;
+      font-size: 2.5em;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+    }
+  
+  input[type="number"] {
+    padding: 10px;
+    width: 50px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
+  
+  p#resultado {
+    margin-top: 3;
+    color: aliceblue;
+    font-size: 1.5em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
