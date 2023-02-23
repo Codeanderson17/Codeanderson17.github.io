@@ -3,15 +3,15 @@ body {
   font-family: "Raleway";
   font-size: 14px;
   font-weight: 500;
-  background-color: #BCAAA4;
+  background-color: #6d4336;
   -webkit-font-smoothing: antialiased;
 }
 
 .title {
-  font-family: "Raleway";
-  font-size: 24px;
+  font-family: "TIMES NEW";
+  font-size: 35px;
   font-weight: 700;
-  color: #5D4037;
+  color: #0cc6e3;
   text-align: center;
 }
 
@@ -140,7 +140,7 @@ h1 + p, p + p {
   width: 50px;
   height: 0px;
   border-radius: 0%;
-  background-color: #BCAAA4;
+  background-color: #6d4336;
   border: none;
   cursor: pointer;
   position: relative;
@@ -156,7 +156,7 @@ h1 + p, p + p {
   height: 0;
   border-style: solid;
   border-width: 10px 0 10px 20px;
-  border-color: transparent transparent transparent #BCAAA4;
+  border-color: transparent transparent transparent #6d4336;
 }
 
 .audio-btn::after {
